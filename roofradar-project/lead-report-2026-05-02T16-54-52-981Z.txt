@@ -1,0 +1,14 @@
+Roofradar Lead Report
+Total Leads Processed: 4
+Total Qualified Leads: 2
+
+Lead: Elite Roofing Pros
+Score: 99
+Phone: 555-0101
+Address: 123 Main St, Springfield
+----------------------------------------
+Lead: Jane Smith
+Score: 64
+Phone: 555-0104
+Address: 789 Oak Ave, Springfield
+----------------------------------------
